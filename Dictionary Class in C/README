@@ -1,0 +1,15 @@
+Alston Huang
+1471706
+CMPS012m
+README
+
+Included files:
+-Dictionary.c
+-Dictionary.h
+-DictionaryClient.c
+-Dictionarytest.c
+-Makefile
+-README
+
+Special Instructions:
+Call 'make DictionaryTest' after 'make' to make executable for the DictionaryTest.
